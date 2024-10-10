@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pagina web</title>
+</head>
+<body>
+    <h1>GRACIAS POR SER UN GRAN MAESTRO Y TAMBIEN UN GRAN AMIGO ING. BETO</h1>
+
+    <h2>Fotos</h2>
+    <img src="img/foto.jpg" alt="Foto 1" width="400">
+    <img src="img/foto.jpg" alt="Foto 1" width="400">
+
+    <h2>Videos</h2>
+    <video width="500" controls>
+        <source src="https://tusitio.com/video1.mp4" type="video/mp4">
+        Tu navegador no soporta videos embebidos.
+    </video>
